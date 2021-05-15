@@ -15,7 +15,7 @@
   },
   "scripts": {
     "seed:dev": "nodemon ./db/seed.js",
-    "seed": "node ./db/seed.js", // this is new!
+    "seed": "node ./db/seed.js",
     "start:dev": "nodemon index.js",
     "start": "node index.js"
   },
